@@ -1,16 +1,22 @@
-## Hi there 👋
 
-<!--
-**felipesg123/felipesg123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### olá Eu sou o felipe da silva 🖥️ 
 
-Here are some ideas to get you started:
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/felipe_d_silva123/)
+[![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=black)](https://github.com/felipesg123)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-da-silva-864151268/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![felipesg GitHub stats](https://github-readme-stats.vercel.app/api?username=felipesg123&show_icons=true&theme=tokyonight)
+
+
+
+### tecnologias do meu dia 
+
+<div style = "display: inline_block">
+ <img aline="center" atl="html5"src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
+</div>
+<div style = "display: inline_block">
+ <img aline="center" atl="css3"src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
+</div>
+<div style = "display: inline_block">
+ <img aline="center" atl="js"src="    https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</div>
