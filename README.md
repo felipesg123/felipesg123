@@ -7,6 +7,7 @@
 
 ![felipesg GitHub stats](https://github-readme-stats.vercel.app/api?username=felipesg123&show_icons=true&theme=tokyonight)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipesg123&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### tecnologias do meu dia 
@@ -20,3 +21,7 @@
 <div style = "display: inline_block">
  <img aline="center" atl="js"src="    https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </div>
+
+
+### estou sempre estudando pois conhecimento nunca é demais
+
