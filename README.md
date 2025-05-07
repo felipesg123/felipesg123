@@ -1,8 +1,8 @@
 
 ### olá Eu sou o felipe da silva 🖥️ 
 
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/felipe_d_silva123/)
-[![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=black)](https://github.com/felipesg123)
+[![instagram](https://img.shields.io/badge/Instagram-FF0069.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/felipe_d_silva123/)
+[![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/felipesg123)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-da-silva-864151268/)
 
 ![felipesg GitHub stats](https://github-readme-stats.vercel.app/api?username=felipesg123&show_icons=true&theme=tokyonight)
@@ -13,15 +13,17 @@
 ### tecnologias do meu dia 
 
 <div style = "display: inline_block">
- <img aline="center" atl="html5"src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
+ <img aline="center" atl="html5"src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" />
 </div>
 <div style = "display: inline_block">
- <img aline="center" atl="css3"src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
+ <img aline="center" atl="css3"src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" />
 </div>
 <div style = "display: inline_block">
- <img aline="center" atl="js"src="    https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+ <img aline="center" atl="js"src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" />
 </div>
-
+<div style = "display: inline_block">
+ <img aline="center" atl="py"src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" />
+</div>
 
 ### estou sempre estudando pois conhecimento nunca é demais
 
